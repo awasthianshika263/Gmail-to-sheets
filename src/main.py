@@ -46,8 +46,3 @@ if __name__ == '__main__':
     main()
 
 
-
-
-
-# cd C:\Users\ASUS\Desktop\gmail-to-sheets
-# python -m src.main
